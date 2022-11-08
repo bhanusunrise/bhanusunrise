@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhanuka-Rankothge.
 - 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning C++, UX Design Concepts.
+- 🌱 I’m currently learning C++ and UX Design Concepts.
 - 💞️ I’m looking to collaborate on different types of Hackathons and other competitions.
 - 📫 Put a professional message on LinkedIn to make a collaboration.
 
