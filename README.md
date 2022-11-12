@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhanuka-Rankothge.
 - 👀 I’m interested in Learning new things.
 - 🔥  Have prior experiances in HTML, CSS, Bootstrap, SQL, Java, PHP, Python, C# and GML.
-- 🌱 I’m currently learning C++ and UX Design Concepts.
+- 🌱 I’m currently learning C++, Laraval and UX Design Concepts.
 - 💞️ I’m looking to collaborate on different types of Hackathons and other competitions.
 - 📫 Put a professional message on LinkedIn to make a collaboration.
 
