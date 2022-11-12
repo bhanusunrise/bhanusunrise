@@ -6,7 +6,9 @@
 - 💞️ I’m looking for participate on different types of Hackathons and other competitions.
 - 📫 Put a professional message on LinkedIn to make a collaboration.
 
-<h2>Experianced in</h2> 
+<h2>Technologies</h2>
+
+<h4>Experianced in</h4> 
 
 <table border = 0px>
   <tr border = 0px>
@@ -64,7 +66,7 @@
   </tr>
 </table>
 
-<h2>Still Learning</h2> 
+<h4>Still Learning</h4> 
 
 <table border = 0px>
   <tr border = 0px>
@@ -86,7 +88,7 @@
   </tr>
 </table>
     
-<h2> Wish to Learn </h2>
+<h4> Wish to Learn </h4>
 
 <table border = 0px>
   <tr border = 0px>
@@ -122,6 +124,15 @@
     </td>    
   </tr>
 </table>
+
+<h2>Competitions and Hackathons</h2>
+  <h4>Win</h4>
+    - IdeaSprint [HackX 7.0 selection round] second runners up
+  <h4>Participated</h4>
+    - MISGA Software Competition <br/>
+    - HackX 7.0 [Participating ...]<br/>
+    - Code Squad 3.0 [Participating ...]<br/>
+  
 
 
 
