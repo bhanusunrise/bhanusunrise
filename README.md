@@ -1,12 +1,12 @@
 <h2>Personal</h2>
 
 - 👋 Hi, I’m @Bhanuka-Rankothge.
-- 🎓 Currently undegraduate in MIT/IT UOK and BIT in UCSC
+- 🎓 First year undegraduate in MIT/IT at University of Kelaniya and BIT in University of Colombo School of Computing.
 - 👀 I’m interested in Learning new things.
 - 💞️ I’m looking for participate on different types of Hackathons and other competitions.
 - 📫 Put a professional message on LinkedIn to make a collaboration.
 
-<h2>Technologies</h2> 
+<h2>Experianced in</h2> 
 
 <table border = 0px>
   <tr border = 0px>
@@ -49,6 +49,18 @@
     <td>
       <img src = "https://th.bing.com/th/id/R.ef28f71037a5929de24a73152990e839?rik=gp8EYytq4WFKkA&pid=ImgRaw&r=0" width = 20px height = 20px/>
     </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.TKEzJMCqUx0hImlLjrN9uQHaHa?pid=ImgDet&rs=1" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://platform.deloitte.com.au/hs-fs/hubfs/workflow-example.png?width=192&name=workflow-example.png" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.zCWqhC_s3vLpfyu3Eo_JEwHaHa?pid=ImgDet&rs=1" width = 20px height = 20px/>
+    </td>
   </tr>
 </table>
 
@@ -74,6 +86,42 @@
   </tr>
 </table>
     
+<h2> Wish to Learn </h2>
+
+<table border = 0px>
+  <tr border = 0px>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.f8df73f4d95ad6a8861f8168793597fb?rik=WG5LVentIHubeA&riu=http%3a%2f%2fwww.techspot.com%2fimages2%2fdownloads%2ftopdownload%2f2014%2f05%2funity.png&ehk=%2fuqebkgR%2fD6Od%2bwTtdBI6ClkyzFsMdpUOPsfngZeMZw%3d&risl=&pid=ImgRaw&r=0" width = 20px height = 20px/> 
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.99a875fcb1ab1acffef7210e6eeac113?rik=PfIajH%2f9xTjxHg&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.a28f0dcd039f6b4dd7eab04d31e1d7f1?rik=KWi8YnsWXxvVKw&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.Sw8P_RkTYoUzYBkoV4eYfwAAAA?pid=ImgDet&rs=1" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.64a52b71e611a2f1e3df3f242ea366e7?rik=JNbr5sUZSBH%2fLg&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.dedd9e7c22ed0a96279bae4424e0b43a?rik=NaBfBfefgo022A&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.ilC2Aqp5sZd1wi0CopD1HwHaHa?pid=ImgDet&rs=1" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.D2ppCycgCvm90WV3CNIM-AHaHa?pid=ImgDet&rs=1" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.c764681291801fc83c6992360f215887?rik=%2fi%2biVKozqULirA&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>    
+  </tr>
+</table>
 
 
 
