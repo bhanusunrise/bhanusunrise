@@ -17,9 +17,6 @@
       <img src = "https://www.logolynx.com/images/logolynx/s_7e/7eed17a45f24e41077eb7cad1d031492.png" width = 20px height = 20px/> 
     </td>
     <td>
-      <img src = "https://www.chicagoit.com/images/bootstrap_logo-1.png" width = 20px height = 20px/>
-    </td>
-    <td>
       <img src = "https://en.opensuse.org/images/e/e8/Vscode.png" width = 20px height = 20px/>
     </td>
     <td>
@@ -70,6 +67,9 @@
     </td>
     <td>
       <img src = "https://th.bing.com/th/id/OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa?pid=ImgDet&rs=1" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://www.chicagoit.com/images/bootstrap_logo-1.png" width = 20px height = 20px/>
     </td>
   </tr>
 </table>
