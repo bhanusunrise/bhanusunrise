@@ -127,7 +127,7 @@
 
 <h2>Events,Competitions and Hackathons</h2>
   <h4>Win</h4>
-    - IdeaSprint [HackX 7.0 selection round] second runners up
+    - IdeaSprint [HackX 7.0 selection round] second runners up.
   <h4>Participated</h4>
     - MISGA Software Competition <br/>
     - HackX 7.0 [Participating ...]<br/>
@@ -136,6 +136,7 @@
     - Google Summer of Code 2023<br/>
     - Unreal Fest 2023<br/>
     - Google I/O event<br/>
+    - Global Game Jam<br/>
   
 
 
