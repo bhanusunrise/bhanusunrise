@@ -125,13 +125,17 @@
   </tr>
 </table>
 
-<h2>Competitions and Hackathons</h2>
+<h2>Events,Competitions and Hackathons</h2>
   <h4>Win</h4>
     - IdeaSprint [HackX 7.0 selection round] second runners up
   <h4>Participated</h4>
     - MISGA Software Competition <br/>
     - HackX 7.0 [Participating ...]<br/>
     - Code Squad 3.0 [Participating ...]<br/>
+  <h4>Wish to Participate</h4>
+    - Google Summer of Code 2023
+    - Unreal Fest 2023
+    - Google I/O event
   
 
 
