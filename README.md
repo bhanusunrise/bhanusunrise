@@ -121,7 +121,22 @@
     </td>
     <td>
       <img src = "https://th.bing.com/th/id/R.c764681291801fc83c6992360f215887?rik=%2fi%2biVKozqULirA&pid=ImgRaw&r=0" width = 20px height = 20px/>
-    </td>    
+    </td>   
+    <td>
+      <img src = "https://th.bing.com/th/id/R.00cda11ceae876c4f760ab6e1b1be2ef?rik=b%2bFIy%2bUPidCSqg&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.46123d2e0c9a02565717015b5e6e5fe5?rik=zboBWcK7o7u0yQ&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f639fdb1de15e42d31f987d_Kubernetes_Logo.png" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo-600x600.png" width = 20px height = 20px/>
+    </td>  
+    <td>
+      <img src = "https://th.bing.com/th/id/R.cc85e848a7a5871ebd335b0ac4375a91?rik=8rmdxQFxz9ALxw&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>  
   </tr>
 </table>
 
