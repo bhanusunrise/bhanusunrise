@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Bhanuka-Rankothge.
 - 🎓 First year undegraduate in MIT/IT at University of Kelaniya and BIT in University of Colombo School of Computing.
 - 👀 I’m interested in Learning new things.
-- 💞️ I’m looking for participate on different types of Hackathons and other competitions.
+- 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
 - 📫 Put a professional message on LinkedIn to make a collaboration.
 
 <h2>Technologies</h2>
