@@ -91,7 +91,7 @@
   </tr>
 </table>
     
-<h4> Wish to Learn </h4>
+<h4> Wish to Learn in Future</h4>
 
 <table border = 0px>
   <tr border = 0px>
@@ -179,7 +179,7 @@
 </table>
 
 <h2>Events,Competitions and Hackathons</h2>
-  <h4>Win</h4>
+  <h4>Won</h4>
    <ul>
       <li>
         IdeaSprint [HackX 7.0 selection round] second runners up.
@@ -198,7 +198,7 @@
       </li>
   </ul>
     
-  <h4>Wish to Participate</h4>
+  <h4>Wish to Participate in Future</h4>
   <ul>
       <li>Google Summer of Code 2023</li>
       <li>Unreal Fest 2023</li>
