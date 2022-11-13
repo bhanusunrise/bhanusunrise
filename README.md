@@ -177,20 +177,31 @@
 
 <h2>Events,Competitions and Hackathons</h2>
   <h4>Win</h4>
-    - IdeaSprint [HackX 7.0 selection round] second runners up.
+   <ul>
+      <li>
+        IdeaSprint [HackX 7.0 selection round] second runners up.
+      </li>
+  </ul>
   <h4>Participated</h4>
-    - MISGA Software Competition <br/>
-    - HackX 7.0 [Participating ...]<br/>
-    - Code Squad 3.0 [Participating ...]<br/>
+  <ul>
+      <li>
+        MISGA Software Competition
+      </li>
+      <li>
+        HackX 7.0 [Participating ...]
+      </li>
+      <li>
+        Code Squad 3.0 [Participating ...]
+      </li>
+  </ul>
+    
   <h4>Wish to Participate</h4>
-    - Google Summer of Code 2023<br/>
-    - Unreal Fest 2023<br/>
-    - Google I/O event<br/>
-    - Global Game Jam<br/>
-  
-
-
-
+  <ul>
+      <li>Google Summer of Code 2023</li>
+      <li>Unreal Fest 2023</li>
+      <li>Google I/O event</li>
+      <li>Global Game Jam</li>
+  </ul>
 <!---
 Bhanuka-Rankothge/Bhanuka-Rankothge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
