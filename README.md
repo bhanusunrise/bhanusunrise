@@ -133,9 +133,9 @@
     - HackX 7.0 [Participating ...]<br/>
     - Code Squad 3.0 [Participating ...]<br/>
   <h4>Wish to Participate</h4>
-    - Google Summer of Code 2023
-    - Unreal Fest 2023
-    - Google I/O event
+    - Google Summer of Code 2023<br/>
+    - Unreal Fest 2023<br/>
+    - Google I/O event<br/>
   
 
 
