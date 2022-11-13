@@ -149,6 +149,8 @@
     <td>
       <img src = "https://th.bing.com/th/id/R.063d50cbc957ecdc61ed126db8ac2031?rik=UVJGn34V6TGvrg&pid=ImgRaw&r=0" width = 20px height = 20px/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src = "https://th.bing.com/th/id/R.8337110621777575b2ee7849b628cda1?rik=RFwA%2fbewlkgojg&pid=ImgRaw&r=0" width = 20px height = 20px/>
     </td>
@@ -158,8 +160,6 @@
     <td>
       <img src = "https://th.bing.com/th/id/R.95f604e16766bd98ffab788d83b5a601?rik=cVoppkXi7XCQ6g&pid=ImgRaw&r=0" width = 20px height = 20px/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src = "https://th.bing.com/th/id/OIP.Eh3pv6Kf_C3ThhT2BXx_fgHaHa?pid=ImgDet&rs=1" width = 20px height = "20px"/>
     </td>
