@@ -136,7 +136,39 @@
     </td>  
     <td>
       <img src = "https://th.bing.com/th/id/R.cc85e848a7a5871ebd335b0ac4375a91?rik=8rmdxQFxz9ALxw&pid=ImgRaw&r=0" width = 20px height = 20px/>
-    </td>  
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.d2a525db37bc785d4ce7ae6fb92a0ef5?rik=6EUsS8ycT5%2flmQ&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.04079e7ea61a8835f44a3a125091f3ed?rik=NhQY5jneDTbPog&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.063d50cbc957ecdc61ed126db8ac2031?rik=UVJGn34V6TGvrg&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.8337110621777575b2ee7849b628cda1?rik=RFwA%2fbewlkgojg&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.783db919016d4a2d589f2fcb6f9dd763?rik=Rfs7EJciN9DCZA&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.95f604e16766bd98ffab788d83b5a601?rik=cVoppkXi7XCQ6g&pid=ImgRaw&r=0" width = 20px height = 20px/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.Eh3pv6Kf_C3ThhT2BXx_fgHaHa?pid=ImgDet&rs=1" width = 20px height = "20px"/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.48239ca51bf20b44aa93714dba956201?rik=VTnyO3nepVNVPA&pid=ImgRaw&r=0" width = 20px height = "20px"/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/R.be6152a64f71b69c401e41fb726b7edd?rik=fjHyPbPha04Q1A&pid=ImgRaw&r=0&sres=1&sresct=1" width = 20px height = "20px"/>
+    </td>
+    <td>
+      <img src = "https://th.bing.com/th/id/OIP.yDncA-XRfTzWHb8jrjyoiwHaHa?pid=ImgDet&rs=1" width = 20px height = "20px"/>
+    </td>
   </tr>
 </table>
 
