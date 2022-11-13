@@ -63,6 +63,11 @@
     <td>
       <img src = "https://th.bing.com/th/id/OIP.zCWqhC_s3vLpfyu3Eo_JEwHaHa?pid=ImgDet&rs=1" width = 20px height = 20px/>
     </td>
+    <tr/>
+    <tr>
+      <td>
+      <img src = "https://curvice.com/wp-content/uploads/2019/11/Lucid-Chart.png" width = 20px height = 20px/>
+    </td>
   </tr>
 </table>
 
