@@ -191,10 +191,10 @@
         MISGA Software Competition
       </li>
       <li>
-        HackX 7.0 [Participating ...]
+        HackX 7.0
       </li>
       <li>
-        Code Squad 3.0 [Participating ...]
+        Code Squad 3.0
       </li>
   </ul>
     
