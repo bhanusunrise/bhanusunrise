@@ -191,6 +191,9 @@
   <h4>Participated</h4>
   <ul>
     <li>
+        CEO 2.0
+      </li>
+    <li>
         PIONEERS 2023
       </li>
       <li>
