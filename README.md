@@ -184,9 +184,15 @@
       <li>
         IdeaSprint [HackX 7.0 selection round] second runners up.
       </li>
+     <li>
+        Kick Starter Weekend - Runner's Up
+      </li>
   </ul>
   <h4>Participated</h4>
   <ul>
+    <li>
+        PIONEERS 2023
+      </li>
       <li>
         MISGA Software Competition
       </li>
