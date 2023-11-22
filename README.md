@@ -8,9 +8,9 @@
 
 <h2>Technologies</h2>
 
-• HTML  • CSS  • JavaScript  • PHP  • Java  • C++  • C#  • MySQL  • GML<br/>
-• BootStrap  • A-Frame  • .NET <br/>
-• Android Studio  • NetBeans  • IntelliJ  • Visual Studio  • VS Code  • Game Maker
+• HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML<br/>
+• BootStrap | A-Frame | .NET <br/>
+• Android Studio | NetBeans | IntelliJ | Visual Studio | VS Code | Game Maker
 
 <h2>Events,Competitions and Hackathons</h2>
   <h4>Won</h4>
