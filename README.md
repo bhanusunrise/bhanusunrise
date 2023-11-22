@@ -22,6 +22,9 @@
      <li>
         Kick Starter Weekend - Runner's Up
       </li>
+     <li>
+        PIONEERS - Finalist
+      </li>
   </ul>
   <h4>Participated</h4>
   <ul>
