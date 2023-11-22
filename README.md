@@ -45,13 +45,6 @@
       </li>
   </ul>
     
-  <h4>Wish to Participate in Future</h4>
-  <ul>
-      <li>Google Summer of Code 2023</li>
-      <li>Unreal Fest 2023</li>
-      <li>Google I/O event</li>
-      <li>Global Game Jam</li>
-  </ul>
 <!---
 Bhanuka-Rankothge/Bhanuka-Rankothge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
