@@ -7,12 +7,12 @@
 - 📫 Put a professional message on LinkedIn to make a collaboration.
 
 <h2>Technologies</h2>
-
-  • HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML<br/>
-  • BootStrap | A-Frame | .NET <br/>
-  • Android Studio | NetBeans | IntelliJ | Visual Studio | VS Code | Game Maker<br/>
-  • Figma | draw.io | Lucidchart
-
+<ul>
+  <li>HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML</li>
+  <li>BootStrap | A-Frame | .NET</li>
+  <li>Android Studio | NetBeans | IntelliJ | Visual Studio | VS Code | Game Maker</li>
+  <li>Figma | draw.io | Lucidchart</li>
+</ul>
 <h2>Events,Competitions and Hackathons</h2>
   <h4>Won</h4>
    <ul>
