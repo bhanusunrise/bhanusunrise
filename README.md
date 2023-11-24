@@ -4,7 +4,7 @@
 - 🎓 Second year undegraduate in IT at University of Kelaniya.
 - 👀 I’m interested in Learning new things.
 - 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
-- 📫 Put a professional message on LinkedIn to make a collaboration.
+- 📫 Put a message on LinkedIn to make a collaboration.
 
 <h2>Technologies</h2>
 <ul>
