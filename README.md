@@ -8,7 +8,7 @@
 
 <h2>Technologies</h2>
 <ul>
-  <li>HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML</li>
+  <li>HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML | Dart</li>
   <li>BootStrap | A-Frame | .NET  |  Swing  |  Flutter</li>
   <li>Android Studio | NetBeans | IntelliJ | Visual Studio | VS Code | Game Maker</li>
   <li>Figma | draw.io | Lucidchart</li>
