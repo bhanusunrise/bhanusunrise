@@ -1,7 +1,7 @@
 <h2>Personal</h2>
 
 - 👋 Hi, I’m @Bhanuka-Rankothge.
-- 🎓 Second year undegraduate in IT at University of Kelaniya.
+- 🎓 Third year undegraduate in IT at University of Kelaniya.
 - 👀 I’m interested in Learning new things.
 - 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
 - 📫 Put a message on LinkedIn to make a collaboration.
@@ -9,7 +9,7 @@
 <h2>Technologies</h2>
 <ul>
   <li>HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML | Dart</li>
-  <li>BootStrap | A-Frame | .NET  |  Swing  |  Flutter</li>
+  <li>BootStrap | A-Frame | .NET  |  Swing  |  Flutter | ASP.Net | ReactJs</li>
   <li>Android Studio | NetBeans | IntelliJ | Visual Studio | VS Code | Game Maker</li>
   <li>Figma | draw.io | Lucidchart</li>
 </ul>
