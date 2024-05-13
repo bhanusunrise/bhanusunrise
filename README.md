@@ -8,8 +8,8 @@
 
 <h2>Technologies</h2>
 <ul>
-  <li>HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML | Dart</li>
-  <li>BootStrap | A-Frame | .NET  |  Swing  |  Flutter | ASP.Net | ReactJs</li>
+  <li>HTML | CSS | JavaScript | PHP | Java | C++ | C# | MySQL | GML | Dart | Mongo DB</li>
+  <li>BootStrap | A-Frame | .NET  |  Swing  |  Flutter | ASP.Net | ReactJs | Node Js | Express Js</li>
   <li>Android Studio | NetBeans | IntelliJ | Visual Studio | VS Code | Game Maker</li>
   <li>Figma | draw.io | Lucidchart</li>
 </ul>
