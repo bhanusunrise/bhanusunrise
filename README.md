@@ -1,7 +1,9 @@
 <h2>Personal</h2>
 
 - 👋 Hi, I’m @Bhanuka-Rankothge.
-- 🎓 Third year undegraduate in IT at University of Kelaniya.
+- 🎓 Third year undergraduate in IT at University of Kelaniya.
+- 💻 Intern at AIESEC in Sri Lanka
+- 💻 Freelance Web Developer at Bhanu Sunrise Solutions
 - 👀 I’m interested in Learning new things.
 - 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
 
