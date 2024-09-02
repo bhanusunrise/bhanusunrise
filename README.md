@@ -9,10 +9,10 @@
 
 <h2>Technologies</h2>
 <ul>
-  <li>🌐 HTML | 🎨 CSS | 💻 JavaScript | 🐘 PHP | ☕ Java | ➕➕ C++ | ➕➖ C# | 🗄️ MySQL | 🎮 GML | 🎯 Dart | 🍃 Mongo DB</li>
-  <li>🥾 BootStrap | 🖼️ A-Frame | 🎯 .NET | 🔄 Swing | 🦋 Flutter | 🎯 ASP.Net | ⚛️ ReactJs | 🟢 Node Js | 🚀 Express Js</li>
-  <li>📱 Android Studio | 📟 NetBeans | 🧠 IntelliJ | 💻 Visual Studio | 🆚 VS Code | 🎮 Game Maker</li>
-  <li>🎨 Figma | 🖌️ draw.io | 📊 Lucidchart</li>
+  <li>🌍MERN</li>
+  <li>📲Flutter</li>
+  <li>😲Next Js</li>
+  <li>🖥️Java</li>
 </ul>
 
 <h2>Events,Competitions and Hackathons</h2>
@@ -26,24 +26,6 @@
       </li>
      <li>
         PIONEERS - Finalist
-      </li>
-  </ul>
-  <h4>Participated</h4>
-  <ul>
-    <li>
-        CEO 2.0
-      </li>
-    <li>
-        PIONEERS 2023
-      </li>
-      <li>
-        MISGA Software Competition
-      </li>
-      <li>
-        HackX 7.0
-      </li>
-      <li>
-        Code Squad 3.0
       </li>
   </ul>
     
