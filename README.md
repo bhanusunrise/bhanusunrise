@@ -1,4 +1,4 @@
-<h2>Personal</h2>
+<h2>Intro</h2>
 
 - 👋 Hi, I’m @Bhanuka-Rankothge.
 - 🎓 Third year undergraduate in IT at University of Kelaniya.
