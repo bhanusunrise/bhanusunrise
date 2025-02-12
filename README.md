@@ -1,8 +1,8 @@
 <h2>Intro</h2>
 
-- 👋 Hi, I’m @Bhanuka-Rankothge.
+- 👋 Hi, I’m @Pasindu Bhanuka.
 - 🎓 Third year undergraduate in IT at University of Kelaniya.
-- 💻 Intern SE TL at AIESEC in Sri Lanka
+- 💻 Former intern SE(TL) at AIESEC in Sri Lanka
 - 💻 Freelance Web Developer at Bhanu Sunrise Solutions
 - 👀 I’m interested in Learning new things.
 - 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
@@ -12,6 +12,7 @@
   <li>🌍MERN</li>
   <li>📲Flutter</li>
   <li>😲Next Js</li>
+  <li>😲Typesript</li>
   <li>🖥️Java</li>
 </ul>
 
