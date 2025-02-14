@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @Pasindu Bhanuka.
 - 🎓 Third year undergraduate in IT at University of Kelaniya.
 - 💻 Former intern SE(TL) at AIESEC in Sri Lanka
+- 💻 Web Designer at AIESEC in Greece
 - 💻 Freelance Web Developer at Bhanu Sunrise Solutions
 - 👀 I’m interested in Learning new things.
 - 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
