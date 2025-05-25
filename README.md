@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js and Dev Ops<br>🎯 Goals: Providing leadership for a worldclass AAA game<br>🎲 Fun fact: Anime Lover</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js and Dev Ops<br>🎯 Goals: Develop the world's best video game<br>🎲 Fun fact: Anime Lover</p>
 
 ###
 
