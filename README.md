@@ -1,37 +1,68 @@
-<h2>Intro</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 👋 Hi, I’m @Pasindu Bhanuka.
-- 🎓 Fourth year undergraduate in IT at University of Kelaniya.
-- 💻 Former intern SE(TL) at AIESEC in Sri Lanka
-- 💻 Web Designer at AIESEC in Greece
-- 💻 Freelance Web Developer at Bhanu Sunrise Solutions
-- 👀 I’m interested in Learning new things.
-- 💞️ I’m looking for participate on different types of Hackathons and other Competitions.
+###
 
-<h2>Technologies</h2>
-<ul>
-  <li>🌍MERN</li>
-  <li>📲Flutter</li>
-  <li>😲Next Js</li>
-  <li>😲Typesript</li>
-  <li>🖥️Java</li>
-</ul>
+<p align="left">My name is Pasindu and I'm an aspiring Software Engineer, from Sri Lanka</p>
 
-<h2>Events,Competitions and Hackathons</h2>
-  <h4>Won</h4>
-   <ul>
-      <li>
-        IdeaSprint [HackX 7.0 selection round] second runners up.
-      </li>
-     <li>
-        Kick Starter Weekend - Runner's Up
-      </li>
-     <li>
-        PIONEERS - Finalist
-      </li>
-  </ul>
-    
-<!---
-Bhanuka-Rankothge/Bhanuka-Rankothge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js and Dev Ops<br>🎯 Goals: Providing leadership for a AAA game<br>🎲 Fun fact: Anime Lover</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/bhanusunrise/bhanusunrise/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhanusunrise/bhanusunrise/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhanusunrise/bhanusunrise/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhanusunrise/bhanusunrise/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanusunrise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanusunrise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
